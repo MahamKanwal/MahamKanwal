@@ -5,7 +5,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0a9cf5&height=200&section=header&text=Maham%20Kanwal%20👩‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <h2 align="center">💻 A Passionate Full Stack Developer from Pakistan</h2>
-<img align="right" alt="coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
+<img align="right" alt="coding" width="525" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mahamkanwal&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/mahamkanwal?label=Followers&style=social" alt="Followers" />
@@ -13,11 +13,16 @@
 
 
 ### 🌟 About Me
-- 🌱 I’m currently learning ****ReactJS**** 
-- 👯 I’m looking to collaborate on ****Web Designing Projects**** 
--  👨‍💻 Check out my work on **https://github.com/MahamKanwal** 
+- 🌱 I’m currently learning ****ReactJS****
+  
+- 👯 I’m looking to collaborate on ****Web Designing Projects****
+  
+-  👨‍💻 Check out my work on **https://github.com/MahamKanwal**
+  
 -  💬 Ask me about ****HTML, CSS, Bootstrap, JavaScript, ReactJS****
+
 -  📫 How to reach me ****kanwalmahsm@gmail.com****
+  
 - ⚡ Fun fact ****I love coding and solving challenging problems!****
 
 ---
