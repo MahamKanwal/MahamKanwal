@@ -47,23 +47,15 @@
 
 ### 🌐 Most Used Languages
 <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahamkanwal&layout=compact&theme=radical" height="165" /> </p>
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahamkanwal&theme=radical" alt="GitHub Streak" />
-</p>  -->
-
----
-
-### 💫 GitHub Activity Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahamKanwal&theme=redical" alt="GitHub Activity Graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahamkanwal&layout=compact&theme=radical" height="165" />
 </p>
 
 ---
-### 🧠 Currently Exploring 
-- 🚀 React Hooks & State Management (Redux, Context API)
-- 🌐 Backend Development with Node.js & Express
-- 💾 Databases (MongoDB, Firebase) 
+
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahamkanwal&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
